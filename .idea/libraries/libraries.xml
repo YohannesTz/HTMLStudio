@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/charm-glisten-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/controlsfx-8.40.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/flowless-0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/flutter-intellij.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/flutter-studio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/fontawesomefx-8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/jfoenix-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/jsoup-1.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/reactfx-2.0-M5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/richtextfx-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/undofx-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/wellbehavedfx-0.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

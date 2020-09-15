@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox fx:id="cell_hbox" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="45.0" prefWidth="260.0" spacing="5.0"  xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="45.0" prefWidth="242.0">
+         <children>
+            <Label fx:id="project_name_label" prefHeight="27.0" prefWidth="420.0" text="Project Name" wrapText="true">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="project_location_label" layoutX="10.0" layoutY="10.0" prefHeight="17.0" prefWidth="416.0" text="C:\Users\new\Documents\KotlinProjectOne" wrapText="true" />
+         </children>
+         <HBox.margin>
+            <Insets left="5.0" />
+         </HBox.margin>
+      </VBox>
+      <ToggleButton fx:id="favorite_toggle_btn" mnemonicParsing="false" prefHeight="30.0" prefWidth="30.0">
+         <HBox.margin>
+            <Insets right="5.0" />
+         </HBox.margin>
+      </ToggleButton>
+   </children>
+</HBox>
